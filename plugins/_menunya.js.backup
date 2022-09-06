@@ -79,10 +79,10 @@ const defaultMenu = {
   after: `
 ──···────────────────···──
 
-Base Script : *BOTCAHX*
+Base Script : *PUNYA BOTCAHX*
 Recode Script : *Private*
 
-⫹⫺ TioXd 
+⫹⫺ RielXd 
 ${'```WhatsApp Multi Device```'}
 `,
 }
@@ -189,13 +189,13 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     let url = `https://database.tioclkp02.repl.co/IMG_20220803_172938.JPG`.trim()
     conn.sendButton(m.chat, text.trim(), wm, url,
 [
-['Creator', '.owner'],
-['Donasi', '.donasi'],
-['Script', '.sc']
+['Creator🗿', '.owner'],
+['Donasi📮', '.donasi'],
+['Script💌', '.sc']
 ], m
 )
     /*let url = `https://database.tioclkp02.repl.co/TextPro.me_162e2a76bb2460.jpg`.trim()
-    conn.sendHydrated(m.chat, text.trim(), '⫹⫺ TioXd', null, 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'Group', '', '', [
+    conn.sendHydrated(m.chat, text.trim(), '⫹⫺ RiellXd', null, 'script bot', 'github.com/RielTod1', '', '', [
       ['Sewa Bot', '/sewa'],
       ['Owner', '/owner']
     ], m)*/
