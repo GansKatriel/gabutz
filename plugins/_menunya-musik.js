@@ -54,7 +54,7 @@ const defaultMenu = {
 │⬡ Premium : ${global.prem ? 'Ya' : 'Tidak'}
 ┗──────────⬣
 
-┏──『 Info *One Botz* 』──⬣
+┏──『 Info *Khurushi Botz* 』──⬣
 │⬡ Uptime : %uptime
 │⬡ Library : Baileys Multi Device
 │⬡ Version : %version
@@ -182,16 +182,16 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     let url = `https://telegra.ph/file/0e96e47b2e280aaa3b8f7.png`.trim()
     conn.sendButton(m.chat, text.trim(), wm, url,
 [
-['Creator', '.owner'],
-['Speed', '.ping'],
-['Script', '.sc']
+['CREATOR🗿', '.owner'],
+['SPEED📶', '.ping'],
+['SCRIPT💌', '.sc']
 ], m
 )
 await conn.sendFile(m.chat, vn, 'menu.opus', null, m, true, {
 type: 'audioMessage', 
 ptt: true})
     /*let url = `https://database.tioclkp02.repl.co/TextPro.me_162e2a76bb2460.jpg`.trim()
-    conn.sendHydrated(m.chat, text.trim(), '⫹⫺ TioXd', null, 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'Group', '', '', [
+    conn.sendHydrated(m.chat, text.trim(), '⫹⫺ RielXd', null, 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'Group', '', '', [
       ['Sewa Bot', '/sewa'],
       ['Owner', '/owner']
     ], m)*/
