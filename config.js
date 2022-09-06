@@ -1,21 +1,21 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282160268332','447578881250','6382128475388'] 
-global.mods = ['447578881250'] 
-global.prems = ['6282160268332','447578881250','6382128475388'] 
+global.owner = ['6282146218274','6282146218274','6282146218274'] 
+global.mods = ['6282146218274'] 
+global.prems = ['6282146218274','447578881250','6382128475388'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Davitt'
-global.numberowner = '447578881250'
-global.instagram = 'https://instagram.com/davidpangrib001'
-global.github = 'https://github.com/davidpangrib001'
+global.nameowner = '⫹⫺ Riell'
+global.numberowner = '6282146218274'
+global.instagram = 'https://instagram.com/Riellgans'
+global.github = 'https://github.com/RielTod1'
 global.dana = ''
-global.pulsa = '082128475388'
+global.pulsa = '083813417529'
 global.gopay = ''
 
 //『 Info Bot 』//
-global.namebot = 'One-BotZ_MD'
+global.namebot = 'Khurushi-Md'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://api-oneebotz.herokuapp.com/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 20.000\n2 Minggu 10.000\n1 Minggu 5.000'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.fotonya2 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=List+Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '⬡ ONE BOTZ'
+global.wm = '⬡ KHURUSHI BOTZ'
 global.watermark = wm
-global.wm2 = '\n⫹⫺ ONE BOTZ'
-global.wm3 = '↺ONE BOTZ'
+global.wm2 = '\n⫹⫺ KHURUSHI  BOTZ'
+global.wm3 = '↺KHURUSHI  BOTZ'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -39,7 +39,7 @@ global.eror = '*ERROR!\n_Yah.. Error . . ._'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = '⬡ 『 One Botz 』⬡\n\n\n\n\n\n\n\n\n\nwa.me/6282128475388'
+global.packname = '⬡ 『 KHURUSHI  Botz 』⬡\n\n\n\n\n\n\n\n\n\nwa.me/083813417529'
 global.author = ''
 
 //『 Apikey 』 //
