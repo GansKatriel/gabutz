@@ -59,6 +59,7 @@ const defaultMenu = {
 │⬡ Library : Baileys Multi Device
 │⬡ Version : %version
 │⬡ Prefix Used : *[ %p ]*
+│⬡ Script recode : Private🐤
 ┗──────────⬣
 
 ┏──『 *Tanggal & Waktu* 』──⬣
